@@ -42,7 +42,7 @@ const Hero = () => {
       <div className="flex justify-center relative my-20 z-10">
         <div className="max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-          My Web Portfolio 
+          My Data Analyst Portfolio 
           </p>
 
           {/**
@@ -56,16 +56,16 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-lg">
-            Hi! I&apos;m Carla Tasinazzo, a Full-stack Developer passionate about learning new technologies and building impactful solutions.
+            Hi! I&apos;m Carla Tasinazzo, a Data Analyst passionate about uncovering insights and building data-driven solutions.
           </p>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-lg">
-            I hold a Higher Diploma in Computer Science with a specialization in software development from the National College of Ireland, and I have further honed my skills through The Odin Project bootcamp.
+            I hold a Higher Diploma in Computer Science from the National College of Ireland, with expertise in Python, data analysis, and machine learning.
           </p>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-lg">
             Previously, I worked as a project manager in the civil engineering industry and hold a postgraduate diploma in project management. This experience strengthens my abilities in leadership, teamwork, and effective project delivery.
           </p>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-lg">
-            I am eager to advance my career in software development and am available to start immediately.
+            I am eager to advance my career in data analysis and am available to start immediately.
           </p>
           
 

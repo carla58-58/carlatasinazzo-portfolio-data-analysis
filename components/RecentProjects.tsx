@@ -68,7 +68,7 @@ const RecentProjects = () => {
 
                 <div className="flex justify-center items-center">
                   <span className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    Check Live Site
+                    View Analysis
                   </span>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>

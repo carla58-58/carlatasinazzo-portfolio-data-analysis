@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Tech enthusiast with a passion for data analysis.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -70,69 +70,53 @@ export const gridItems = [
 ];
 
 export const projects = [
-
-  /*{
-    id: 2,
-    title: "Animated Apple Iphone Clone",
-    des: "React Recreation of Apple iPhone 15 Pro website.",
-    img: "/project2.png",
-    iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/gsap.svg", "/javascript.png"],
-    link: "https://apple-website-carla.vercel.app/",
-  },*/
   {
     id: 1,
-    title: "Wine Route Mendoza",
-    des: "Explore the variety of wine tours in Mendoza with this MERN Website.",
+    title: "Airbnb Listings Data Analysis",
+    des: "Explore data to understand pricing, demand, and neighbourhood trends.",
     img: "/project1.png",
-    iconLists: ["/javascript.png", "/re.svg", "/nodejs.png","/expressjs.png", "/mongodb.png"],
-    link: "https://mern-tour-booking-website-frontend.onrender.com/",
+    iconLists: ["/python.png", "/pandas.png", "/matplotlib.png", "/seaborn.png", "/colab.png"],
+    link: "https://colab.research.google.com/drive/1Hi8XXk1GVdXN4R78jDY3f2KZgaQLjjQz?authuser=1",
   },
   {
     id: 3,
-    title: "Library Management System",
-    des: "Django App with a SQLite Database deployed on PythonAnywhere.",
+    title: "Diabetes Prediction AI Model",
+    des: "Predicts diabetes from patient data: 77% accurate! (Python + Scikit-learn)",
     img: "/project3.png",
-    iconLists: ["/python.png", "/django.png", "/sqlite.png", "/html.png", "/pythonanywhere.png"],
-    link: "https://carlaatasinazzo.pythonanywhere.com/",
+    iconLists: ["/python.png", "/pandas.png", "/numpy.png", "/scikitlearn.png", "/colab.png"],
+    link: "https://colab.research.google.com/drive/1dMibLTpflEFi5h0HPg2onee4DaET0QJ9?authuser=1#scrollTo=IhG9vN5mhCli",
   },
   {
     id: 4,
-    title: "Weather App",
-    des: "Spring Boot Dynamic weather App that fetches real-time weather data.",
+    title: "Gold Price Prediction AI Model",
+    des: "Forecasts GLD prices from market data 98% R² accuracy w/ Random Forest",
     img: "/project4.png",
-    iconLists: ["/springboot.png", "/java.png","/openweatherapi.jpg", "/bootstrap.png", "thymeleaf.png"],
-    link: "https://weather-app-v5tu.onrender.com/",
+    iconLists: ["/python.png", "/pandas.png","/numpy.png", "/matplotlib.png", "/seaborn.png", "/scikitlearn.png"],
+    link: "https://colab.research.google.com/drive/1yEbTnvRKcr6HgyBFbgLOESkB-SYXM_EM?authuser=1#scrollTo=dK-IhyMYBiqB",
   },
   {
     id: 5,
-    title: "Finance App",
-    des: "ASP.NET Core MVC Finance App with a SQLite Database.",
+    title: "Marathon Running Data Analysis",
+    des: "Analyzed ultra-marathon speeds by age, gender, season",
     img: "/project5.png",
-    iconLists: ["/csharp.jpg", "/netcore.png", "/sqlite.png", "/chartjs.jpg", "docker.png"],
-    link: "https://financeapp-nzxh.onrender.com",
+    iconLists: ["/python.png", "/pandas.png","/numpy.png", "/matplotlib.png", "/seaborn.png", "/scipy.png"],
+    link: "https://colab.research.google.com/drive/1G-fN6EwIXIJuQK-ECDRe3mx67HP7lXHv?authuser=1",
   },
-  {
-    id: 6,
-    title: "Zizi soda landing page",
-    des: "Next.js animated page, use of interactive 3D graphs and Prismic.",
-    img: "/project6.png",
-    iconLists: ["/nextjs.jpg", "/re.svg", "/three.svg", "/prismic.png", "/gsap.svg"],
-    link: "https://zizi-six.vercel.app/",
-  },
+  
   
 ];
 
 export const testimonials = [
   {
     quote:
-      "Working alongside Carla has always been inspiring. She bring a unique blend of creativity and precision to every project, and her willingness to take on new challenges is truly admirable. Even in high-pressure situations, Carla remained calm, communicated clearly, and supported the team. I am excited to see her pursue a career in software development. I am confident that her strong work ethic and passion for learning will lead to great success in this new field. Anyone would be fortunate to have Carla on their team.",
+      "Working alongside Carla has always been inspiring. She bring a unique blend of creativity and precision to every project, and her willingness to take on new challenges is truly admirable. Even in high-pressure situations, Carla remained calm, communicated clearly, and supported the team. I am excited to see her pursue a career in data analysis. I am confident that her strong work ethic and passion for learning will lead to great success in this new field. Anyone would be fortunate to have Carla on their team.",
     name: "Nicolas Schiaffino",
     title: "Project and Construction engineer",
     img: "/profile1.jpg", 
   },
   {
     quote:
-      "I've had the pleasure of working with Carla on several civil engineering projects, and I can confidently say that her analytical thinking and dedication to problem-solving are second to none. Carla consistently demonstrated a strong ability to learn new concepts quickly and adapt to changing project requirements. I have no doubt that these qualities, combined with their collaborative spirit and attention to detail, will make her an excellent software developer. I wholeheartedly support her transition into the tech industry.",
+      "I've had the pleasure of working with Carla on several civil engineering projects, and I can confidently say that her analytical thinking and dedication to problem-solving are second to none. Carla consistently demonstrated a strong ability to learn new concepts quickly and adapt to changing project requirements. I have no doubt that these qualities, combined with their collaborative spirit and attention to detail, will make her an excellent data analyst. I wholeheartedly support her transition into the tech industry.",
     name: "Sandra Albiol",
     title: "Project and Construction engineer",
     img: "/profile2.jpg", 
