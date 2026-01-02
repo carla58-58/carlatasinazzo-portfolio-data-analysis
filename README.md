@@ -10,7 +10,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Welcome to my personal portfolio! I designed this website to showcase my skills as a developer and to create a memorable, interactive experience for visitors. This portfolio was built using Next.js for the core structure, Three.js for dynamic 3D visuals, Framer Motion for smooth animations, and Tailwind CSS for modern styling. My goal was to combine creativity with technical expertise, resulting in a site that stands out and highlights what I can offer.
+Welcome to my personal portfolio! I designed this website to showcase my skills as a data analyst and to create a memorable, interactive experience for visitors. This portfolio was built using Next.js for the core structure, Three.js for dynamic 3D visuals, Framer Motion for smooth animations, and Tailwind CSS for modern styling. My goal was to combine creativity with technical expertise, resulting in a site that stands out and highlights what I can offer.
 
 If you have questions, suggestions, or just want to connect, feel free to reach out through my social media or professional profiles.
 
