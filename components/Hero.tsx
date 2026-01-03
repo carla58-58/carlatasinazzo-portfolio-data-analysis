@@ -51,7 +51,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Solving Problems in a Creative Way"
+            words="Solving Real-World Problems Through Data Analysis"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
@@ -59,7 +59,7 @@ const Hero = () => {
             Hi! I&apos;m Carla Tasinazzo, a Data Analyst passionate about uncovering insights and building data-driven solutions.
           </p>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-lg">
-            I hold a Higher Diploma in Computer Science from the National College of Ireland, with expertise in Python, data analysis, and machine learning.
+            I hold a Higher Diploma in Computer Science from the National College of Ireland, with expertise in Python, data analysis, statistics, and machine learning.
           </p>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-lg">
             Previously, I worked as a project manager in the civil engineering industry and hold a postgraduate diploma in project management. This experience strengthens my abilities in leadership, teamwork, and effective project delivery.

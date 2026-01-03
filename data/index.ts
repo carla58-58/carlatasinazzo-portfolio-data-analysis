@@ -102,6 +102,22 @@ export const projects = [
     iconLists: ["/python.png", "/pandas.png","/numpy.png", "/matplotlib.png", "/seaborn.png", "/scipy.png"],
     link: "https://colab.research.google.com/drive/1G-fN6EwIXIJuQK-ECDRe3mx67HP7lXHv?authuser=1",
   },
+  {
+    id: 6,
+    title: "Energy Consumption Dashboard",
+    des: "Power BI dashboard: 4.06M energy units by city/building/type",
+    img: "/project6.png",
+    iconLists: ["/powerbi.png", "/filter3.png", "/map.png"],
+    link: "https://github.com/carla58-58/Energy_Consumption_Dashboard_Data_Analysis/tree/main",
+  },
+  {
+    id: 7,
+    title: "Marathon Running Data Analysis",
+    des: "Analyzed ultra-marathon speeds by age, gender, season",
+    img: "/project7.png",
+    iconLists: ["/powerbi.png", "/pandas.png","/numpy.png", "/matplotlib.png", "/seaborn.png", "/scipy.png"],
+    link: "https://colab.research.google.com/drive/1G-fN6EwIXIJuQK-ECDRe3mx67HP7lXHv?authuser=1",
+  },
   
   
 ];

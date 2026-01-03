@@ -51,7 +51,7 @@ export const BentoGridItem = ({
   spareImg?: string;
 }) => {
   const leftLists = ["NumPy", "Python", "Pandas"];
-  const rightLists = ["Seaborn", "Matplotlib", "Google Colab"];
+  const rightLists = ["Seaborn", "SQL", "Matplotlib"];
 
   const [copied, setCopied] = useState(false);
 
