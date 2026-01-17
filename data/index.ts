@@ -72,9 +72,17 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Retail Sales Data Analysis",
+    des: "PostgreSQL retail sales analysis with schema, cleaning, and SQL queries.",
+    img: "/project1.png",
+    iconLists: ["/postgresql.png", "/sql.png", "/filter.png"],
+    link: "https://github.com/carla58-58/Retail_Sales_Data_Analysis",
+  },
+  {
+    id: 2,
     title: "Airbnb Listings Data Analysis",
     des: "Explore data to understand pricing, demand, and neighbourhood trends.",
-    img: "/project1.png",
+    img: "/project2.png",
     iconLists: ["/python.png", "/pandas.png", "/matplotlib.png", "/seaborn.png", "/colab.png"],
     link: "https://colab.research.google.com/drive/1Hi8XXk1GVdXN4R78jDY3f2KZgaQLjjQz?authuser=1",
   },
@@ -107,17 +115,18 @@ export const projects = [
     title: "Energy Consumption Dashboard",
     des: "Power BI dashboard: 4.06M energy units by city/building/type",
     img: "/project6.png",
-    iconLists: ["/powerbi.png", "/filter3.png", "/map.png"],
+    iconLists: ["/powerbi.png", "/filter.png", "/map.png"],
     link: "https://github.com/carla58-58/Energy_Consumption_Dashboard_Data_Analysis/tree/main",
   },
   {
     id: 7,
-    title: "Marathon Running Data Analysis",
-    des: "Analyzed ultra-marathon speeds by age, gender, season",
+    title: "Pizza Sales Dashboard",
+    des: "Full ETL: CSV → SQL Server → Power BI dashboard (48K orders analyzed)",
     img: "/project7.png",
-    iconLists: ["/powerbi.png", "/pandas.png","/numpy.png", "/matplotlib.png", "/seaborn.png", "/scipy.png"],
-    link: "https://colab.research.google.com/drive/1G-fN6EwIXIJuQK-ECDRe3mx67HP7lXHv?authuser=1",
+    iconLists: ["/powerbi.png", "/sql.png", "/filter.png"],
+    link: "https://github.com/carla58-58/Pizza_Sales_Dashboard_Data_Analysis/tree/main",
   },
+  
   
   
 ];
